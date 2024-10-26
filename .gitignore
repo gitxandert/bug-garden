@@ -1,0 +1,11 @@
+# Processing
+*.pde
+
+# Max
+*.mxe
+*.mxo
+
+# General
+*.log
+*.DS_Store
+*.swp
